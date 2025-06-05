@@ -25,4 +25,4 @@ Mas pode me chamar pelo meu apelido, <font color="cyan">**Cyan**</font> 🦊
 ## 📫 Fale comigo:
 Você pode me encontrar por aqui futuramente... (ainda vou colocar minhas redes)
 
--# Enquanto isso, estou aqui... vivendo a vida
+Enquanto isso, estou aqui... vivendo a vida
