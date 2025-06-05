@@ -8,7 +8,11 @@
 Hellow, meu nume é Hugo
 Mas pode me chamar pelo meu apelido, Cyan 🦊
 
-Estou aprendendo python, java, javaScript e vendo um pouco de c++
+Linguagens que estou aprendendo:
+- python
+- java
+- javaScript
+- c++
 
 Eu no momento:
 - curso de TI senac
