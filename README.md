@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hellow world.. piada velha
 
 <!--
-**CyanPeaceOFStars/CyanPeaceOFStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyanPeaceOFStars/SobreMim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Hellow, meu nume é Hugo
+Mas pode me chamar pelo meu apelido, Cyan 🦊
+
+Estou aprendendo python, java, javaScript e vendo um pouco de c++
+
+Eu no momento:
+- curso de TI senac
+- desenvouvimento de sistema senai
+
+Em quanto isso estou aqui vivendo lá vida
 -->
