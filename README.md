@@ -6,7 +6,7 @@
 
 
 Hellow, meu nume é Hugo
-Mas pode me chamar pelo meu apelido, Cyan 🦊
+Mas pode me chamar pelo meu apelido, <font color="cyan">Cyan</font> 🦊
 
 Linguagens que estou aprendendo:
 - python
