@@ -2,7 +2,7 @@
 
 <!--
 **CyanPeaceOFStars/SobreMim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 
 Hellow, meu nume é Hugo
@@ -15,4 +15,3 @@ Eu no momento:
 - desenvouvimento de sistema senai
 
 Em quanto isso estou aqui vivendo lá vida
--->
